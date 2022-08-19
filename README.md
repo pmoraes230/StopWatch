@@ -1,4 +1,4 @@
-# StopWatch
+# StopWatch :stopwatch:
 - Cronômetro feito em HTML, CSS e JavaScript, foi feito para melhoria de porfólio
 
 ## Screenshots
